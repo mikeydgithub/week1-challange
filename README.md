@@ -1,7 +1,7 @@
 # week1-challange
 #Horiseon weekly challange.
 
-#A lot of the <div> we're cleaned up so the code is more organized.
+#A lot of the dividers we're cleaned up so the code is more organized.
   
 #A lot of changes to the sytle sheet were changed so classes are more grouped.
   
